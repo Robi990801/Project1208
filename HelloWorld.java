@@ -5,7 +5,7 @@ public class HelloWorld {
         Scanner scanner = new Scanner(System.in);
         boolean running = true;
         
-        System.out.println("=== Szuper Számológép v2.0  ===");
+        System.out.println("=== Szuper Számológépnek a fasza v2.0  ===");
         
         while (running) {
             System.out.println("\nVálassz műveletet:");
